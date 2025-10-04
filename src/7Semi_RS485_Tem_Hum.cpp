@@ -1,4 +1,4 @@
-#include "7Semi_RS485_Tem_Hum.h"
+#include <7Semi_RS485_Tem_Hum.h>
 
 RS485TH_7Semi::RS485TH_7Semi() {}
 
