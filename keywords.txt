@@ -1,0 +1,7 @@
+SevenSemiTH	KEYWORD1
+begin	KEYWORD2
+setSlaveId	KEYWORD2
+setStartAddress	KEYWORD2
+setNumRegs	KEYWORD2
+setTurnaroundUs	KEYWORD2
+readData	KEYWORD2
